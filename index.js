@@ -5,5 +5,5 @@ bot.registry.registerGroup('rolemanagement', 'RoleManagement');
 bot.registry.registerGroup('custommessages', 'CustomMessages');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
-bot.login('NDU3Mjg4NjQ0NDYyNTEwMDk0.DgW61A.MiMr10CduvuVRX76An7Gdv2R9qY');
+bot.login(' ') //hid key so I don't get griefed again.
 
